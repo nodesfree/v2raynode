@@ -25,7 +25,7 @@
 ## 📘 客户端使用方法
 
 - 📱 [Android](https://yfuye.com/site/598.html)
-- 🖥 [Windows]](https://yfuye.com/site/606.html)
+- 🖥 [Windows](https://yfuye.com/site/606.html)
 - 🍎 [iOS](https://yfuye.com/site/626.html)
 
 
