@@ -18,7 +18,7 @@
 
 #### 我搜罗的一些比较便宜好用的机场，觉得免费订阅不好使的朋友们可以在这里面找找。
 
-### [点击进入查看](https://tg-nav.github.io/nodeshare)
+### [点击进入查看](https://nodesfree.github.io/v2raynode/jichang/)
 
 
 
