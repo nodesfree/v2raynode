@@ -67,24 +67,10 @@
 <td style="text-align:left">✔支持</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://cf2.ikuaimao.world/#/register?code=9xg6G0AV" target="_blank">快猫</a></td>
-<td style="text-align:left"><a href="https://cf2.ikuaimao.world/#/register?code=9xg6G0AV" target="_blank">点击进入</a></td>
-<td style="text-align:left"></td>
-<td style="text-align:left">10元 100G/月</td>
-<td style="text-align:left">✔支持</td>
-</tr>
-<tr>
 <td style="text-align:left"><a href="https://goudan.site/#/register?code=2mVFWPT1" target="_blank">西游云</a></td>
 <td style="text-align:left"><a href="https://goudan.site/#/register?code=2mVFWPT1" target="_blank">点击进入</a></td>
 <td style="text-align:left"></td>
 <td style="text-align:left">9元 120G/月</td>
-<td style="text-align:left"></td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd" target="_blank">火烧云</a></td>
-<td style="text-align:left"><a href="https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd" target="_blank">点击进入</a></td>
-<td style="text-align:left"></td>
-<td style="text-align:left">18元 100G/月</td>
 <td style="text-align:left"></td>
 </tr>
 <tr>
@@ -118,12 +104,7 @@
 <h3>3. GPT专属线路支持，保障ChatGPT等AI服务高可用，稳定流畅！</h3>
 <h3>4. 支持多设备同时使用，无限制，畅连全球！</h3>
 <h3></h3>
-</div><h3><a href="https://sulian.info/#/register?code=3R5DYYrL" target="_blank">冰灵加速器</a></h3>
-<p>注册链接：<a href="https://sulian.info/#/register?code=3R5DYYrL" target="_blank">点击进入</a></p>
-<p>试用：</p>
-<p>最便宜的订阅有5.9元 39G/月。</p>
-<p>便宜是真便宜，8.9 元钱买1个月，每个月 129 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。</p>
-<p>最大的缺点就是太便宜了</p>
+</div>
 <hr>
 <h3><a href="http://c.xcvpn.me/?path=register&amp;code=jWv0CnPO" target="_blank">星辰VPN</a></h3>
 <p>注册链接：<a href="http://c.xcvpn.me/?path=register&amp;code=jWv0CnPO" target="_blank">点击注册</a></p>
@@ -155,18 +136,8 @@
 <p>试用：1G 不限时</p>
 <p>最便宜的订阅有10元 60G/月。</p>
 <p>全自研开发面板，海外团队运营，专线节点1倍率，安全好用省心无日志纪录，节点质量高，客服实时在线，晚高峰不限速，不限制设备。</p>
-<hr>
-<h3><a href="https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk" target="_blank">火烧云</a></h3>
-<p>注册链接：<a href="https://cn1.huoshaoyun.pro/#/register?code=6Y5z9uJk" target="_blank">点击注册</a></p>
-<p>试用：无</p>
-<p>最便宜的订阅有18元 100G/月。</p>
-<p>这家机场是我自己用的，节点质量非常高，解锁大部分主流媒体，可以访问openai，有 emby 和 奈飞 劫持。支持支付宝、微信、USDT支付。</p>
-<hr>
-<h3><a href="https://cf2.ikuaimao.world/#/register?code=9xg6G0AV" target="_blank">快猫</a></h3>
-<p>注册链接：<a href="https://cf2.ikuaimao.world/#/register?code=9xg6G0AV" target="_blank">点击注册</a></p>
-<p>试用：无</p>
-<p>最便宜的订阅有10元 100G/月。</p>
-<p>机场比较稳定，解锁Chatgpt，Tiktok及各大流媒体，四年老牌专线，最便宜套餐 98 一年每月 60g，折合每个月 8 元。</p>
+
+
 <hr>
 <h3><a href="https://cpdd.one/?r=42354" target="_blank">冲上云霄</a></h3>
 <p>点击注册：<a href="https://cpdd.one/?r=42354" target="_blank">点击进入</a></p>
