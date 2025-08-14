@@ -42,7 +42,7 @@
 <td style="text-align:left"><a href="https://cpdd.one/?r=42354" target="_blank">冲上云霄</a></td>
 <td style="text-align:left"><a href="https://cpdd.one/?r=42354" target="_blank">点击进入</a></td>
 <td style="text-align:left"></td>
-<td style="text-align:left"></td>
+<td style="text-align:left">10元 300G/月</td>
 <td style="text-align:left">✔支持</td>
 </tr>
 <tr>
