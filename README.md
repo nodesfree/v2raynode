@@ -74,9 +74,7 @@
 <p>iPhone或者iPad打开苹果App Store，搜索Mume(暮梅)、Potatso Lite、FastSocks、Shadowrocket（小火箭）。</p></div>
 
 
-## 💸 付费订阅
 
-我搜罗的一些比较便宜好用的机场，觉得免费订阅不好使的朋友们可以在这里面找找。
 
 
 ## 📷 使用截图
