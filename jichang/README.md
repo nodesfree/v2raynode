@@ -32,8 +32,8 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><a href="https://88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">88云加速</a></td>
-<td style="text-align:left"><a href="https://88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">点击进入</a></td>
+<td style="text-align:left"><a href="https://88cloud.pages.dev/#/register?code=LSpR3sOK" target="_blank">88云加速</a></td>
+<td style="text-align:left"><a href="https://88cloud.pages.dev/#/register?code=LSpR3sOK" target="_blank">点击进入</a></td>
 <td style="text-align:left"></td>
 <td style="text-align:left">10元 300G/月</td>
 <td style="text-align:left">✔支持</td>
