@@ -34,9 +34,17 @@
 #### 我搜罗的一些比较便宜好用的机场，觉得免费订阅不好使的朋友们可以在这里面找找..。
 
 ### [点击进入查看](https://nodesfree.github.io/v2raynode/jichang/)
-
-
-
+***
+<h3></h3>
+<h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?path=register&code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
+<h3>· 高速·稳定·无限可能</h3>
+<h3>1. 多地专线高速节点，极速跨境体验，告别卡顿与延迟！</h3>
+<h3>2. 一键解锁Netflix、Disney+、TikTok等全球流媒体，尽享自由精彩！</h3>
+<h3>3. GPT专属线路支持，保障ChatGPT等AI服务高可用，稳定流畅！</h3>
+<h3>4. 支持多设备同时使用，无限制，畅连全球！</h3>
+<h3></h3>
+***
+                                      
 ## 📘 客户端使用方法
 
 - 📱 [Android](https://yfuye.com/site/598.html)
