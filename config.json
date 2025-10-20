@@ -1,0 +1,23 @@
+{
+    "panels": {
+        "mihomo": [
+            {
+                "url": "https://88cloud.dpdns.org",
+                "description": "主面板"
+            },
+            { "url": "https://qq.88cloud.dpdns.org" },
+            { "url": "https://vx.88cloud.dpdns.org" },
+            { "url": "https://dy.88cloud.dpdns.org" },
+            { "url": "https://ks.88cloud.dpdns.org" },
+            { "url": "https://tb.88cloud.dpdns.org" }
+        ]
+    },
+    "onlineSupport": [
+        {
+            "url": "https://cdn.chatway.app",
+            "description": "在线客服",
+            "apiBaseUrl": "https://cdn.chatway.app",
+            "wsBaseUrl": "wss://cdn.chatway.app"
+        }
+    ]
+}
