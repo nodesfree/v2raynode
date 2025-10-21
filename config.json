@@ -11,7 +11,7 @@
         {
             "url": "https://cdn.chatway.app",
             "description": "在线客服",
-            "apiBaseUrl": "https://cdn.chatway.app",
+            "apiBaseUrl": "https://cdn.chatway.app/widget.js?id=xVm1U0IyE82J",
             "wsBaseUrl": "wss://cdn.chatway.app"
         }
     ]
