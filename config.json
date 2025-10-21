@@ -2,14 +2,9 @@
     "panels": {
         "mihomo": [
             {
-                "url": "https://88cloud.dpdns.org",
+                "url": "https://tudouaaa.zaixianyouxi.dpdns.org",
                 "description": "主面板"
-            },
-            { "url": "https://qq.88cloud.dpdns.org" },
-            { "url": "https://vx.88cloud.dpdns.org" },
-            { "url": "https://dy.88cloud.dpdns.org" },
-            { "url": "https://ks.88cloud.dpdns.org" },
-            { "url": "https://tb.88cloud.dpdns.org" }
+            }
         ]
     },
     "onlineSupport": [
