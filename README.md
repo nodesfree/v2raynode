@@ -10,7 +10,7 @@
 
 - v2ray订阅链接
   ```
-    https://nodesfree.github.io/v2raynode/subscribe/v2ray.txt 
+    https://nodesfree.github.io/v2raynode/v2ray.txt 
   ```
 
   *  *   *
