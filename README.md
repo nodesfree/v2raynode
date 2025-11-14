@@ -34,7 +34,7 @@
 
  *  *   *
 ##  更多v2ray节点订阅
-***
+
 <hr>
 <h3><a href="https://cpdd.one/?r=42354" target="_blank">冲上云霄</a></h3>
 <p>点击注册：<a href="https://cpdd.one/?r=42354" target="_blank">点击进入</a></p>
