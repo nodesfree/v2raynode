@@ -36,12 +36,6 @@
 ##  更多v2ray节点订阅
 
 
-<h3><a href="https://cpdd.one/?r=42354" target="_blank">冲上云霄</a></h3>
-<p>点击注册：<a href="https://cpdd.one/?r=42354" target="_blank">点击进入</a></p>
-<p>试用：1天 1G</p>
-<p>最便宜的订阅有10元 300G/30天。</p>
-<p>这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频</p>
-
 
 ***
 ##  付费订阅
