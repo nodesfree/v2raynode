@@ -1,4 +1,4 @@
-<h2>更新时间 2026-2-13</h2>
+<h2>更新时间 2026-2-14</h2>
 <h1>2026年便宜好用的翻墙机场评测推荐(长期更新 欢迎推荐)</h1>
 <div><meta name="keywords" content="机场推荐,上网加速,科学上网,2025机场,高性价比机场,稳定机场,好用机场 #不掉线机场,学生党必备,海外加速,亲测有效,宝子们冲鸭">
 </div><h3>关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！</h3>
@@ -34,13 +34,6 @@
 <tr>
 <td style="text-align:left"><a href="https://88cloud.pages.dev/#/register?code=LSpR3sOK" target="_blank">88云加速</a></td>
 <td style="text-align:left"><a href="https://88cloud.pages.dev/#/register?code=LSpR3sOK" target="_blank">点击进入</a></td>
-<td style="text-align:left"></td>
-<td style="text-align:left">10元 300G/月</td>
-<td style="text-align:left">✔支持</td>
-</tr>
-<tr>
-<td style="text-align:left"><a href="https://cpdd.one/?r=42354" target="_blank">冲上云霄</a></td>
-<td style="text-align:left"><a href="https://cpdd.one/?r=42354" target="_blank">点击进入</a></td>
 <td style="text-align:left"></td>
 <td style="text-align:left">10元 300G/月</td>
 <td style="text-align:left">✔支持</td>
@@ -90,12 +83,6 @@
 解锁奈飞迪士尼</p>
 <h4>注册地址：<a href="https://88cloud.pages.dev/#/register?code=LSpR3sOK" target="_blank">【88云加速（点击注册）】</a></h4>
 <hr>
-<h3><a href="https://cpdd.one/?r=42354" target="_blank">冲上云霄</a></h3>
-<p>点击注册：<a href="https://cpdd.one/?r=42354" target="_blank">点击进入</a></p>
-<p>试用：1天 1G</p>
-<p>最便宜的订阅有10元 300G/30天。</p>
-<p>这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频</p>
-<hr>
 <div><h3></h3>
 <h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?path=register&code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
 <h3>· 高速·稳定·无限可能</h3>
@@ -130,18 +117,7 @@
 <p>试用：1天 2G</p>
 <p>最便宜的订阅有10元 100G/月。</p>
 <p>解锁主流流媒体和ChatGPT，IEPL接口线路和普通线路一样的价格，机场稳定，几乎全部节点全天候可用。购买之前记得领一下首页的优惠券再下单。</p>
-<hr>
-<h3><a href="https://jiasu.la/?r=42350" target="_blank">加速啦</a></h3>
-<p>注册链接：<a href="https://jiasu.la/?r=42350" target="_blank">点击注册</a></p>
-<p>试用：1G 不限时</p>
-<p>最便宜的订阅有10元 60G/月。</p>
-<p>全自研开发面板，海外团队运营，专线节点1倍率，安全好用省心无日志纪录，节点质量高，客服实时在线，晚高峰不限速，不限制设备。</p>
 
 
 <hr>
-<h3><a href="https://cpdd.one/?r=42354" target="_blank">冲上云霄</a></h3>
-<p>点击注册：<a href="https://cpdd.one/?r=42354" target="_blank">点击进入</a></p>
-<p>试用：1天 1G</p>
-<p>最便宜的订阅有10元 300G/30天。</p>
-<p>这是目前来看最便宜的机场，用户也比较多，节点质量过关。不限登录设备数，chatGPT 解锁奈飞、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频</p>
-<hr>
+
