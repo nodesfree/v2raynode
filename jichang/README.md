@@ -60,8 +60,8 @@
 <td style="text-align:left">✔支持</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://www.xiyou666.xyz/?path=register&code=2mVFWPT1" target="_blank">西游云</a></td>
-<td style="text-align:left"><a href="https://www.xiyou666.xyz/?path=register&code=2mVFWPT1" target="_blank">点击进入</a></td>
+<td style="text-align:left"><a href="https://d.xiyou666.xyz/?path=register&code=2mVFWPT1" target="_blank">西游云</a></td>
+<td style="text-align:left"><a href="https://d.xiyou666.xyz/?path=register&code=2mVFWPT1" target="_blank">点击进入</a></td>
 <td style="text-align:left"></td>
 <td style="text-align:left">9元 120G/月</td>
 <td style="text-align:left"></td>
@@ -106,8 +106,8 @@
 <p>最便宜的订阅有15.8元 160G/月。</p>
 <p>集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;</p>
 <hr>
-<h3><a href="https://goudan.site/#/register?code=2mVFWPT1" target="_blank">西游云</a></h3>
-<p>注册链接：<a href="https://goudan.site/#/register?code=2mVFWPT1" target="_blank">点击注册</a></p>
+<h3><a href="https://d.xiyou666.xyz/#/register?code=2mVFWPT1" target="_blank">西游云</a></h3>
+<p>注册链接：<a href="https://d.xiyou666.xyz/#/register?code=2mVFWPT1" target="_blank">点击注册</a></p>
 <p>试用：</p>
 <p>最便宜的订阅有9元 120G/月。</p>
 <p>最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持</p>
