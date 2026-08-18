@@ -93,11 +93,5 @@
 
 
 
-## 📷 使用截图
 
-低峰期可以看视频，高峰期可能会有点卡顿。
-
-![alt text](https://github.com/nodesfree/clashnode/blob/64be95f5a1eb5be17df34d829d4cc4bf0c96511b/2.png)
-
-![alt text](https://github.com/nodesfree/clashnode/blob/64be95f5a1eb5be17df34d829d4cc4bf0c96511b/1.png)
 
