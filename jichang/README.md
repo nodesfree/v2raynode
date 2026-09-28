@@ -1,4 +1,4 @@
-<h2>更新时间 2026-9-27</h2>
+<h2>更新时间 2026-9-28</h2>
 <h1>2026年便宜好用的翻墙机场评测推荐(长期更新 欢迎推荐)</h1>
 <div><meta name="keywords" content="机场推荐,上网加速,科学上网,2025机场,高性价比机场,稳定机场,好用机场 #不掉线机场,学生党必备,海外加速,亲测有效,宝子们冲鸭">
 </div><h3>关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！</h3>
@@ -32,8 +32,8 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left"><a href="https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">88云加速</a></td>
-<td style="text-align:left"><a href="https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">点击进入</a></td>
+<td style="text-align:left"><a href="https://www.8891888.xyz/#/register?code=LSpR3sOK" target="_blank">88云加速</a></td>
+<td style="text-align:left"><a href="https://www.8891888.xyz/#/register?code=LSpR3sOK" target="_blank">点击进入</a></td>
 <td style="text-align:left"></td>
 <td style="text-align:left">10元 300G/月</td>
 <td style="text-align:left">✔支持</td>
@@ -76,12 +76,12 @@
 </tbody>
 </table>
 <h2><a href="#%E7%AE%80%E4%BB%8B">简介</a></h2>
-<h3><a href="https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">【88云加速】</a></h3>
+<h3><a href="https://www.8891888.xyz/#/register?code=LSpR3sOK" target="_blank">【88云加速】</a></h3>
 <p>原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频</p>
 <p>最便宜的订阅有10元 300G/月</p>
 <p>试用:<br>
 解锁奈飞迪士尼</p>
-<h4>注册地址：<a href="https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK" target="_blank">【88云加速（点击注册）】</a></h4>
+<h4>注册地址：<a href="https://www.8891888.xyz/#/register?code=LSpR3sOK" target="_blank">【88云加速（点击注册）】</a></h4>
 <hr>
 <div><h3></h3>
 <h3><span style="color: #ff0000;">🚀 <a style="color: #ff0000;" href="https://www.112112789.xyz/?path=register&code=7Y5uXPTq">飞鸟加速&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 点击注册</a> </span></h3>
