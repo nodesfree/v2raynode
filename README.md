@@ -8,7 +8,7 @@
 ## [海外社交账号商店](http://shop.tgaaaa.co) \---专住于海外社交账号的零售批发，包括电报Telegram，小火箭独享账号，苹果各国ID推特Twitter、脸书Facebook、谷歌邮箱Gmail、Instagram、海外版抖音TikTok等账号的零售[点击进入购买](http://shop.tgaaaa.co)
 ***
  
-### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
+### [【88云加速】](https://www.8891888.xyz/#/register?code=LSpR3sOK)
 
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
@@ -19,7 +19,7 @@
 试用:
 解锁奈飞迪士尼
 
-#### 注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
+#### 注册地址：[【88云加速（点击注册）】](https://www.8891888.xyz/#/register?code=LSpR3sOK)
 
 *  *   *
 
