@@ -1,4 +1,4 @@
-<h2>更新时间 2026-9-29</h2>
+<h2>更新时间 2026-9-30</h2>
 <h1>2026年便宜好用的翻墙机场评测推荐(长期更新 欢迎推荐)</h1>
 <div><meta name="keywords" content="机场推荐,上网加速,科学上网,2025机场,高性价比机场,稳定机场,好用机场 #不掉线机场,学生党必备,海外加速,亲测有效,宝子们冲鸭">
 </div><h3>关注<span style="color: #ff0000;"><a style="color: #ff0000;" href="https://t.me/clashjd">「TG频道</a>」</span>可第一时间获得节点更新消息，还可解锁神秘高速节点！</h3>
@@ -106,8 +106,8 @@
 <p>最便宜的订阅有15.8元 160G/月。</p>
 <p>集群负载均衡; 不限速，无审计; 高速专线，极低延迟; 全球独家Hysteria协议; 解锁流媒体及ChatGPT; 不限设备数，全平台通用; 在线客服，远程技术支持;</p>
 <hr>
-<h3><a href="https://d.xiyou666.xyz/#/register?code=2mVFWPT1" target="_blank">西游云</a></h3>
-<p>注册链接：<a href="https://d.xiyou666.xyz/#/register?code=2mVFWPT1" target="_blank">点击注册</a></p>
+<h3><a href="https://e.xiyou666.xyz/#/register?code=2mVFWPT1" target="_blank">西游云</a></h3>
+<p>注册链接：<a href="https://e.xiyou666.xyz/#/register?code=2mVFWPT1" target="_blank">点击注册</a></p>
 <p>试用：</p>
 <p>最便宜的订阅有9元 120G/月。</p>
 <p>最高速度不限制；解锁Netflix/Disney+/HBO/HULU；解锁chatGPT；全球20个节点；连接设备数5个；客服技术支持</p>
